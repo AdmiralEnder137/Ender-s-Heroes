@@ -9,3 +9,4 @@ This is a test page for the website
 
 What happens when I update this?
 
+Here is a test link [[What is a Digital Garden\|What is a Digital Garden]]
